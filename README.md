@@ -6,3 +6,4 @@
 - Java Standard Classes
 - Java Aplikasi Todolist OOP
 - Java Generic
+- Java Collection
