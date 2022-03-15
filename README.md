@@ -7,3 +7,5 @@
 - Java Aplikasi Todolist OOP
 - Java Generic
 - Java Collection
+- Java Lambda
+- Java Apache Maven
